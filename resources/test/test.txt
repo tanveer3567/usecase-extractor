@@ -1,0 +1,629 @@
+The system shall allow a user who is logged in to review their time.
+The system shall allow a user who is logged in to log time
+The system shall allow a user who is logged in to submit time
+The system shall check to see if all required information is present and prompt the user to fill out missing data and resubmit.
+The system shall copy selected time submission to new day(s).
+The system shall allow a user who is logged in to review their leave time.
+The system shall allow a user who is logged in to submit leave time.
+The system shall check to see if all required information is present and prompt the user to fill out missing data and resubmit.
+The system shall copy selected leave time submission to new day(s).
+The system shall allow the user to fill out a form to be submitted through the website.
+The system shall check to see if all required information is present, and prompt the user to fill out missing data and resubmit
+The system shall recall any previously saved data and fill in the application automatically
+The system shall recall data from database and format in file according to export preference
+The system shall recall data from database, generate a PDF of formatted data and display PDF.
+The system shall let a User that is an administrator or Project Manager with correct permissions who is logged into the system to add employees.
+The system shall let a User that is an administrator or Project Manager with correct permissions who is logged into the system to remove employees.
+The system shall let a User that is an administrator or Project Manager with correct permissions who is logged into the system to edit employees.
+The system shall let a User that is an administrator or Project Manager with correct permissions who is logged into the system to review employees.
+The system shall let a User that is an administrator or Project Manager with correct permissions who is logged into the system to abandon the process of changing an employee (add/delete/edit) without submitting changes.
+The system shall let a user who is an administrator or a project manager with the correct permissions and logged into the system to review time.
+The system shall let a user who is an administrator or a project manager with the correct permissions and logged into the system to approve submitted time.
+The system shall let a user who is an administrator or a project manager with the correct permissions and logged into the system to reject submitted time, giving an optional reason.
+The system shall let a user who is an administrator or a project manager with the correct permissions and logged into the system to exit the review of time without either approving or rejecting it.
+The system shall let a user who is an administrator and logged into the system to review the brand preferences.
+The system shall let a user who is an administrator and logged into the system to change the brand preferences
+The system shall let a user who is an administrator and logged into the system to cancel the brand preference changes without submitting them to the database.
+The system shall allow a user who is logged in and is an administrator or project manager with the correct permissions to view a list of all users within the system.
+The system shall allow a user who is logged in and is an administrator or project manager with the correct permissions to impersonate other users
+The system shall allow a user who is logged in and is an administrator or project manager with the correct permissions who is currently impersonating another user to cancel their impersonation, reverting them back to their original user identity
+The system shall check to see if the desired user is valid, and prompt the user to choose a different user and resubmit if it is not.
+The system shall let a User that is an administrator or Project Manager/Leader with correct permissions who is logged into the system to add projects/clients.
+The system shall let a User that is an administrator or Project Manager/Leader with correct permissions who is logged into the system to remove projects/clients.
+The system shall let a User that is an administrator or Project Manager/Leader with correct permissions who is logged into the system to edit projects/clients
+The system shall let a User that is an administrator or Project Manager/Leader with correct permissions who is logged into the system to review projects/clients.
+The system shall let a User that is an administrator or Project Manager/Leader with correct permissions who is logged into the system to abandon the process of changing a project/client (add/delete/edit) without submitting changes.
+Users shall be required to log in to the system for all operations.
+The system shall permit only staff members who are on the list of authorized administrators to create or edit brand.
+The system shall permit users who are not project managers or administrators to view only their own information, not the information of other users
+All network transactions that involve financial information or personally identifiable information shall be encrypted.
+All Web pages generated by the system shall be fully downloadable in no more than 10 seconds over a 40KBps modem connection.
+Responses to queries shall take no longer than 7 seconds to load onto the screen after the user submits the query.
+Web application shall permit complete navigation and food item selection using the keyboard alone, in addition to using mouse and keyboard combinations.
+Android application shall support hardware as well as virtual keyboard input.
+The system shall communicate with a database through a programmatic interface
+The time management system shall transmit data to be stored on Google App Engine.
+The system shall display all the products that can be configured.
+The system shall allow user to select the product to configure.
+The system shall display all the available components of the product to configure
+The system shall enable user to add one or more component to the configuration.
+The system shall notify the user about any conflict in the current configuration.
+The system shall allow user to update the configuration to resolve conflict in the current configuration.
+The system shall allow user to confirm the completion of current configuration
+The system shall display detailed information of the selected products.
+The system shall provide browsing options to see product details.
+The system shall display detailed product categorization to the user.
+The system shall enable user to enter the search text on the screen.
+The system shall enable user to select multiple options on the screen to search.
+The system shall display all the matching products based on the search
+The system shall display only 10 matching result on the current screen.
+The system shall enable user to navigate between the search results.
+The system shall notify the user when no matching product is found on the search.
+The system shall display both the active and completed order history in the customer profile.
+The system shall allow user to select the order from the order history.
+The system shall display the detailed information about the selected order.
+The system shall display the most frequently searched items by the user in the profile.
+The system shall allow user to register for newsletters and surveys in the profile.
+The system shall provide online help, FAQ’s customer support, and sitemap options for customer support.
+The system shall allow user to select the support type he wants.
+The system shall allow user to enter the customer and product information for the support.
+The system shall display the customer support contact numbers on the screen.
+The system shall allow user to enter the contact number for support personnel to call.
+The system shall display the online help upon request.
+The system shall display the FAQ’s upon request.
+The system shall maintain customer email information as a required part of customer profile.
+The system shall send an order confirmation to the user through email.
+The system shall display detailed invoice for current order once it is confirmed.
+The system shall optionally allow user to print the invoice.
+The system shall provide shopping cart during online purchase.
+The system shall allow user to add/remove products in the shopping cart
+The system shall display different shipping options provided by shipping department.
+The system shall enable user to select the shipping method during payment process.
+The system shall display the shipping charges.
+The system shall display tentative duration for shipping.
+The system shall allow user to enter the order information for tracking.
+The system shall display the current tracking information about the order.
+The system shall calculate tax for the order.
+The system shall display tax information for the order.
+The system shall display available payment methods for payment.
+The system shall allow user to select the payment method for order.
+The system shall display the orders that are eligible to change.
+The system shall allow user to select the order to be changed.
+The system shall allow user to cancel the order
+The system shall allow user to change shipping, payment method.
+The system shall notify the user about any changes made to the order.
+The system shall display the reviews and ratings of each product, when it is selected.
+The system shall enable the user to enter their reviews and ratings.
+The system shall display all the available financing options.
+The system shall allow user to select the financing option.
+The system shall notify the use about the financing request.
+The system shall allow user to view detailed sitemap.
+The system shall display all the available promotions to the user.
+The system shall allow user to select available promotion.
+The system shall allow user to confirm the purchase.
+The system shall enable user to enter the payment information.
+The system shall provide a uniform look and feel between all the web pages.
+The system shall provide a digital image for each product in the product catalog.
+The system shall provide use of icons and toolbars.
+The system shall provide handicap access.
+The system shall provide multi language support.
+The system shall provide storage of all databases on redundant computers with automatic switchover.
+The system shall provide for replication of databases to off-site storage locations.
+The system shall provide RAID V Disk Stripping on all database storage disks
+Virtual-EDU consists of an online website.
+The system provides a new distance learning platform. 
+The system will allow the professors to communicate more effectively with the students.
+Ability for online registration of a user to create a profile. 
+Ability for a Secure Application platform for communication purposes.
+Ability for secured portal.
+Ability for students within the same group or different groups can communicate. 
+Ability for the communication features like email, group chat, bulletin board, audio and visual tools. 
+The system allows the user to share his or her profile information with the rest of the users. 
+The system allows the user to manage a private temporary hosting space.
+Ability for a user to store data for future retrieval or present usage. 
+The system allow the user the ability for file sharing and document for collaborative work. 
+The system allow the user the ability work together on a document in real time.
+The system allow the user the abilityshare the work to other users through file sharing. 
+The system provides online capability for students to submit class assignments or documents to the professor. 
+The system notifies relevant entities when the assignment is accepted or rejected based on submission deadlines. 
+The system notifies the student whether the assignment is accepted or rejected.
+The system motifies the professor when the assignment is accepted. 
+The system archives accepted and rejected assignments..
+The system provides online testing tools with instant grading.
+The system notifies the grades to the students. 
+The system provides one-to-one or one-to-many connection.
+The system allows only the account holder to make changes in the profile.
+The system allows the user to move, delete and rename files.
+The system usage is limited to only Windows XP, Vista or Mac operating systems users.
+The system usage is limited to only Internet Explorer, Mozilla Firefox and Safari internet browsers users.
+Ability of users to have pop-up windows enabled on their operating systems.
+Ability of users to connect to high speed internet.
+Ability of users to have their computers equipped with microphone and web camera.
+Ability of users to have have antivirus software on their systems.
+Ability of users to scan the files from other users to avoid virus.
+Users must have Real Player installed on their systems.
+The system provides the privacy statement prior to using the application sharing.
+The System is a software application.
+The system assists an airline with transactions related to making ticket reservations.
+The ticket reservations includes blocking, reserving, canceling and rescheduling tickets.
+Minimize repetitive work done by the system administrator.
+Maintain consistency among different access modes.
+Maintain customer information in case of emergency.
+Maximize the revenue of the airline company by various means.
+Increase awareness among frequent travelers about various special offers and discounts.
+Minimize the number of vacant seats on a flight.
+Maximize flight capacity utilization.
+Maintain the capability to adopt a flexible pricing policy.
+Reduce effort and frustration for travelers in scheduling a trip.
+Show all possible combinations and itineraries available for a pair of origin destination cities.
+Reduce redundancy in the information required from the customers in order for them to buy tickets, create user accounts etc.
+Check the validity of input data and give a feedback to the user in case of errors or inconsistency.
+Provide flexible access modes to users – internet, telephone, PDA.
+Protect customer's privacy concerns.
+Make it easy for travelers to check the ticket status or make changes to their trip.
+The software must be launched into a graphical user interface.     
+The graphical user interface must be able to load an existing, sorted network file.
+The graphical user interface must be able to generate new network files.
+The graphical user interface must be able to save network files.   
+The graphical user interface must display the end reliability of the network in decimal format.  
+The graphical user interface must display the number of nodes generated in the whole tree.
+The graphical user interface must display the number of total nodes processed. 
+The graphical user interface must display the maximum number nodes at any one level. 
+The software must be able to calculate the reliability of a network using the algorithm provided by the client, with as low of a time complexity as possible. 
+The software must have a toggleable ability to write the results to a log file for later use/analysis and must be human readable.    
+The software must be able to load a sorted network file for computation, in the format supplied.
+The software must compute the reliability of a successful network using the algorithm.
+The software must output the reliability.
+The software must compute the time taken to complete, as well as maximum number of nodes at a level.
+The software must compute the total number of nodes generated in the whole tree.
+The software must compute the total number of nodes processed.    
+The software must have a User Manual and API documentation suitable for a user interacting with the system
+The software must have a User Manual and API documentation suitable for a developer interpreting the system.   
+The system should associate a supervisor indicator with each job class.
+The system should handle any number of existing fees associated with unions.
+The system should handle any number of new fees associated with unions.
+The system should capture and maintain job class status as active or inactive.
+The system should assign the Supervisor Code based on the value in the Job Class table and additional criteria as specified by the clients.
+The system should provide the Labor Relations office with the ability to override the system-derived Bargaining Unit code.
+The system should provide the Labor Relations office with the ability to override the Union Code for to-be-determined employee types, including hourly appointments.
+Provide a North American resource to collect, quality control, and make available surface transportation weather and road condition observations so that State Departments of Transportation (DOTs) can be more productive in maintaining safety and mobility on all roads.
+Surface transportation-based weather observations will enhance and extend the existing weather data sources that support general purpose weather forecasting for the protection of life and property.
+Collection of real-time surface transportation-based weather observations will support real-time operational responses to weather.
+Surface transportation-based weather observations integrated with existing observation data will permit broader support for the enhancement and creation of models that make better predictions in the atmospheric boundary layer and near the Earth’s surface to support more accurate forecasts.
+The intent of the Clarus Initiative is to demonstrate how an open and integrated approach to observational data management can be used to collect, control the quality of, and consolidate surface transportation environmental data. 
+The Clarus Initiative will address the necessary infrastructure to consolidate the data from a multitude of independent data collection systems.
+This process offers the prospect of enhancing data coverage, improving the performance of meteorological support services, and providing guidance to owners of these data sources regarding the quality of their data and performance of their data collection systems.
+Surface transportation environmental data collected by the Clarus system will include atmospheric data, pavement data , and hydrologic (water level) data.
+The addition of Clarus system data to national weather observations will further enhance general purpose weather forecasting, providing a wider range of benefits to the protection of life and property.
+The deployed Clarus system is envisioned to include	A one-stop Internet portal for all surface transportation environmental observations.
+The deployed Clarus system is envisioned to include Data provided without post-processing, ready to be incorporated into value-added products including weather and traffic models as well as decision support systems.
+The deployed Clarus system is envisioned to include Continuous quality control of data with feedback to operators of the originating sensor stations;\
+The deployed Clarus system is envisioned to include data transferred in one common protocol with full metadata.
+The deployed Clarus system is envisioned to include Management of user’s rights to input or extract specific data components.
+The deployed Clarus system is envisioned to include Support for the inclusion of new technologies such as vehicle-based sensors, surface visibility information from traffic cameras, and remote sensing technologies.
+The Clarus system shall collect, quality control, and disseminate environmental data.
+The Clarus system shall be able to access in-situ environmental observations from data collectors.
+The Clarus system shall be able to access remotely sensed environmental observations from data collectors.
+The Clarus system shall calculate derived environmental data from observations.
+The Clarus system shall be able to receive roadway weather measurements derived from VII data.
+The Clarus system shall allow access to new surface transportation related observed environmental data.
+The Clarus system shall accept environmental data derived from images.
+Clarus system shall accept surface condition data derived from surface images.
+The Clarus system shall accept atmospheric condition data derived from atmospheric images.
+The Clarus system shall accept weather hazard reports containing the hazard type, location, and timeframe.
+The Clarus system shall acquire and disseminate National Weather Service (NWS) watches, warnings, and advisories.
+The Clarus system shall be able to retrieve environmental data directly from environmental sensor stations.
+The Clarus system shall minimize the time for data acquisition.
+The Clarus system shall process data as they are received.
+The Clarus system shall collect pavement-related observations.
+The Clarus system shall accept environmental data from railway systems or in situ ESS along tracks.
+The Clarus system shall accept environmental data from railroad vehicles.
+The Clarus system shall accept environmental data from (roadway) vehicles.
+The Clarus system shall accept environmental data from maintenance and construction vehicles.
+The Clarus system shall accept environmental data from service patrol vehicles.
+The Clarus system shall accept environmental data from transit vehicles.
+The Clarus system shall accept environmental data from emergency vehicles.
+The Clarus system shall be able to receive weather data from weather service providers.
+The Clarus system shall implement continuous quality control processes.
+The Clarus system shall provide environmental data quality flags.
+The Clarus system shall provide notification of data quality conditions to data collectors.
+The Clarus system shall detect out of range values.
+The Clarus system shall not modify original observations.
+The Clarus system shall apply appropriate quality checks based on the completeness of received sensor station metadata.
+The Clarus system shall allow human intervention to override automatically applied quality assessment.
+The Clarus system shall record the methods applied when deriving quality control information.
+The Clarus system shall be able to implement quality control rules for each environmental parameter.
+The Clarus system shall be able to implement quality control rules for specific environmental situations.
+The Clarus system shall be able to implement quality control rules specific to observation locations.
+The Clarus system shall be able to base its quality control process on values from multiple observations.
+The Clarus system shall be able to base its quality control process on historical environmental data.
+The Clarus system shall be able to use multiple algorithms for its quality control process.
+The Clarus system shall be able to detect data submission errors.
+The Clarus system shall be able to provide sensor equipment data in response to a request.
+The Clarus system shall minimize the time for data dissemination.
+The Clarus system shall be able to disseminate data based on spatial queries.
+The Clarus system shall maintain a dynamic library of data for at least seven days.
+The Clarus program shall alert users to system modifications.
+The Clarus system shall not require approval to request environmental data.
+The Clarus system shall enable system administrators to manage security groups.
+The Clarus system shall be able to restrict environmental data publication based on source.
+The Clarus system shall record statistics about its operation.
+The Clarus system shall log data transactions.
+The Clarus system shall accept environmental data from maintenance and construction vehicles.
+The Clarus system shall accept environmental data from service patrol vehicles.
+The Clarus system shall accept environmental data from transit vehicles.
+The Clarus system shall accept environmental data from emergency vehicles.
+The Clarus system shall be able to receive weather data from weather service providers.
+The Clarus system shall implement continuous quality control processes.
+The Clarus system shall provide environmental data quality flags.
+The Clarus system shall provide notification of data quality conditions to data collectors.
+The Clarus system shall detect out of range values.
+The Clarus system shall not modify original observations.
+The Clarus system shall apply appropriate quality checks based on the completeness of received sensor station metadata.
+The Clarus system shall allow human intervention to override automatically applied quality assessment.
+The Clarus system shall record the methods applied when deriving quality control information.
+The Clarus system shall be able to implement quality control rules for each environmental parameter.
+The Clarus system shall be able to implement quality control rules for specific environmental situations.
+The Clarus system shall be able to implement quality control rules specific to observation locations.
+The Clarus system shall be able to base its quality control process on values from multiple observations.
+The Clarus system shall be able to base its quality control process on historical environmental data.
+The Clarus system shall be able to use multiple algorithms for its quality control process.
+The Clarus system shall be able to detect data submission errors.
+The Clarus system shall be able to provide sensor equipment data in response to a request.
+The Clarus system shall minimize the time for data dissemination.
+The Clarus system shall be able to disseminate data based on spatial queries.
+The Clarus system shall maintain a dynamic library of data for at least seven days.
+The Clarus program shall alert users to system modifications.
+The Clarus system shall not require approval to request environmental data.
+The Clarus system shall enable system administrators to manage security groups.
+The Clarus system shall be able to restrict environmental data publication based on source.
+The Clarus system shall record statistics about its operation.
+The Clarus system shall log data transactions.
+The Clarus system shall acquire, process, and disseminate surface data.
+The Clarus system shall acquire, process, and disseminate hydrologic data.
+The Clarus system shall acquire, process, and disseminate atmospheric metadata.
+The Clarus system shall acquire, process, and disseminate surface metadata.
+The Clarus system shall acquire, process, and disseminate hydrologic metadata.
+The Clarus system shall accept only observations that include location, timeframe, and source metadata.
+The Clarus system shall accept only observations of known measurement types and units.
+The Clarus system shall acquire, process, and disseminate environmental sensor station metadata.
+The Clarus system shall be able to acquire, process, and disseminate environmental data from across North America.
+The Clarus system shall accept data through a Clarus standard interface.
+The Clarus system shall be able to communicate with environmental sensor stations using the NTCIP ESS 1204 standard for data collection.
+The Clarus system shall be able to communicate with RWIS databases through their native interfaces.
+The Clarus system shall be able to communicate with an individual ESS through its native interface.
+The Clarus system shall be able to collect environmental data that are manually entered.
+The Clarus system shall transfer data as efficiently as possible.
+The Clarus system shall employ industry standards to minimize implementation impact to users and providers.
+The Clarus system shall allow service providers to select specific desired data sets.
+The Clarus system shall respond to queries for environmental data from the available data.
+The Clarus system shall enable environmental data queries by timestamp.
+The Clarus system shall enable environmental data queries by location reference.
+The Clarus system shall enable environmental data queries by quality.
+The Clarus system shall enable environmental data queries by source.
+The Clarus system shall provide a user interface for system administration.
+The Clarus system shall manage system user privileges according to the Clarus data sharing agreements.
+The Clarus system shall allow users to create a data subscription request.
+The Clarus system shall respond to queries for environmental data from the available data.
+The Clarus system shall enable environmental data queries by timestamp.
+The Clarus system shall enable environmental data queries by location reference.
+The Clarus system shall enable environmental data queries by quality.
+The Clarus system shall enable environmental data queries by source.
+The Clarus system shall provide a user interface for system administration.
+The Clarus system shall manage system user privileges according to the Clarus data sharing agreements.
+The Clarus system shall allow users to create a data subscription request.
+The Clarus system shall be able to be hosted at one or more physical locations.
+The Clarus system shall use hardware that implements industry accepted standard interfaces.
+The Clarus system shall use software that implements industry accepted standard interfaces.
+The Clarus system shall be able to operate on redundant hardware.
+The Clarus system shall disseminate data in response to a scheduled request.
+The Clarus system shall disseminate data in response to polling.
+The Clarus system shall disseminate data in response to a change notification request.
+The Clarus system shall be able to notify subscribers when data sets become available.
+The Clarus system shall disseminate data using standard Internet protocols.
+All HTML coding shall meet FHWA requirements for web sites.
+The Clarus system shall support modular components.
+The Clarus system shall be able to use latitude, longitude, and elevation (standard GPS) coordinates to specify location to the nearest fifty feet.
+The Clarus system shall use Coordinated Universal Time (UTC) for all timestamps.
+The Clarus system shall have a minimum of one system administrator.
+The Clarus system shall be able to mitigate communication denial-of-service attacks.
+The Clarus system shall be able to automatically recover from an unexpected shutdown.
+The Clarus system shall be able to respond to 95% of all requests for environmental data 95% of the time.
+The Clarus system shall be able to publish environmental data at three times the volume rate that it collects it.
+The Clarus system shall be able to prioritize data handling for time-critical data.
+The Clarus system shall support 470 million current observations.
+The Clarus system shall be able to collect data from sources within 5 minutes of them becoming available.
+The Clarus system shall be able to receive all reported environmental data during a fifteen minute time interval.
+The Clarus system shall be able to complete an automated quality control check of environmental data within ten seconds of data receipt.
+The Clarus system shall be able to publish new data within twenty minutes of data receipt.
+The Clarus system shall respond to a request for information within one minute.
+The Clarus system shall be able to handle three hundred simultaneous requests for environmental element data.
+The Clarus system shall be able to support six hundred concurrent users.
+The Clarus system shall be able to support six thousand registered users.
+The Clarus system shall accept data only from approved sources.
+The Clarus program shall establish data sharing agreements with all participating sources of environmental data.
+The Clarus program shall maintain continuous 24x7 operations.
+The Clarus program shall provide an environment that has uninterruptible power for the Clarus system.
+The Clarus program shall provide an environment that has redundant communication for the Clarus system.
+The Clarus program shall provide network management tools.
+The Clarus program shall provide setup support.
+The Clarus program shall provide for customer service.
+The Clarus program shall provide a trained support staff.
+The Clarus program shall define data quality assurance methods and criteria.
+The Clarus program shall define quality control rules for environmental observations.
+The Clarus program shall define data retention standards.
+The Clarus program shall provide documentation of Clarus standards.
+The Clarus program standards shall accommodate contributions of new sensor technologies to the Clarus system.
+The Clarus program standards shall support multiple methods of data delivery to users.
+The Clarus program shall maintain a comprehensive Clarus system test environment.
+The Clarus program shall test all software changes in the designated test environment before deployment to production.
+The Clarus program shall test all hardware changes in the designated test environment before deployment to production.
+The Clarus program shall operate the Clarus system according to its published IT Security Plan.
+The Clarus program shall operate according to Government IT security requirements as outlined in OMB Circular A-130, Management of Federal Information Resources, Appendix III, Security of Federal Automated Information Resources.
+The Clarus program shall operate according to Government IT security requirements as outlined in the National Institute of Standards and Technology (NIST) Guidelines, Departmental Information Resource Management Manual, and associated guidelines.
+The Clarus program shall operate according to Government IT security requirements as outlined in DOT Order 1630.2B, Personnel Security Management.
+Weather service providers shall be able to use Clarus data to provide localized special weather products.
+Public agency maintenance and construction personnel shall be able to use the Clarus system to obtain environmental conditions.
+Rail system personnel shall be able to use the Clarus system to obtain environmental conditions.
+Traffic management personnel shall be able to use the Clarus system to obtain environmental conditions.
+Transit personnel shall be able to use the Clarus system to obtain environmental conditions.
+The freight community shall be able to use the Clarus system to obtain environmental conditions.
+Emergency management and public safety personnel shall be able to use the Clarus system to obtain environmental conditions.
+The Clarus program shall maintain information about data providers.
+The Clarus program shall maintain metadata about each data provider's network.
+The Clarus program shall maintain information about data provider redistribution restrictions.
+The Clarus program shall maintain information about service providers.
+The Clarus program shall maintain information about service provider communications.
+The Clarus program shall maintain information about service provider access to data.
+The Clarus program shall allow potential weather element data providers to request permission to submit weather information.
+The final product enabling CDN peering assists in coordinated and cooperative content delivery via internetworking among distinct CDNs to allow providers to rapidly “scale-out” to meet both flash crowds and anticipated increases in demand, and remove the need for a single CDN to provision resources.
+An ad-hoc or planned peering of CDNs requires fundamental research to be undertaken to address the core problems of measuring and disseminating load information, performing request assignment and redirection, enabling content replication and determining appropriate compensation among participants on a geographically distributed “Internet” scale.
+CDN peering allows different CDN providers to share resources in order to provide larger scale and/or reach to each participant than they could not achieve otherwise.
+Peering allows a particular CDN to achieve larger scale/reach through resource sharing with other CDN(s).
+The triggering condition must consider the expected and unexpected load increases in the initiating CDN.
+negotiated relationships must specify the interactions among entities including service administration, coordination and disband (or re-arrangement) of internetworked CDNs.
+Once the initiating CDN identifies its roles and activities through the created negotiated relationships for coordination and cooperation between CDNs, the next step is to choose potential CDNs to peer with.
+The mediator instance passes the service requirements to the local PA to discover external resources from peers.
+The PA performs the resource discovery process through predicting performance of the peers, working around issues of separate administration and limited information sharing among enlisted CDNs.
+The System is to configure the ‘CDN peering’ protocols at the conduit of the respective CDNs in order to technically support the terms and policies implicitly specified through the negotiated relationships.
+These protocols also allow participating CDNs to exchange information regarding the content availability and assists to redirect requests to an optimal peer.
+Peering also enables the CDNs to exchange accounting information to perform billing based on the negotiated relationships.
+The system do Development and validation of peering and manage the complexity of content delivery across Web servers of multiple CDNs that scale across the globe.
+the system decrease cost of Web access, increase QoS through reduced latency, reduce server load, and bandwidth consumption (by a particular CDN server), thus improving the performance of content delivery.
+The system assists an existing CDN to alleviate congestions by detecting and handling short-term load spikes (i.e. flash crowds) effectively.
+The functions of the Web server(s) and its constituents is A Web server replicates content on-demand from the origin server and stores it for future use. 
+The functions of the Web server(s) and its constituents is In the event of Web hotspot, it initiates request to trigger peering.
+The functions of the Web server(s) and its constituents is The Web services host ensures the delivery of content to end-users based on the negotiated policies with other CDNs.
+The functions of the Web server(s) and its constituents is The policy agent is responsible (in conjunction with the mediator) for determining which resources can be delegated and under what conditions (policies) delegation is permitted.
+The functions of the Web server(s) and its constituents is The SLA-allocator performs the provisioning and reservation of Web server’s resources (e.g.CPU, bandwidth, storage etc.) to satisfy both local and delegated SLAs, and ensures that the terms of the SLAs are enforced.
+The functions of the Web server(s) and its constituents is The Web servers’ underlying algorithms perform on-demand caching, content selection, and routing between servers.
+The Mediator generates service requirements as the basis for negotiated relationships.
+The Mediator passes the service requirements to the PA.
+The Mediator works in conjunction with its local PA to discover external resources and to negotiate with other CDNs.
+The Mediator ensures that the participating entities are able to adapt to changing circumstances (agility) and are able to achieve their objectives in a dynamic and uncertain environment (resilience).
+Once a peering arrangement is established, it cont
+rols what portion of the Web traffic (i.e.end-user requests) is redirected to the Web servers of the peering CDNs, which content is replicated there, how the replication decision is taken, and which replication policies are being used.
+Service Registry encapsulates the resource and service information for each CDN.
+Service Registry helps in discovering local resources through enabling the Web servers of CDN providers to register and publish their resource, service and policy details.
+In the face of traffic surges, Service Registry supplies any necessary local resource information to the mediator.
+When a new peering arrangement is established, an instance of the service registry is created that encapsulates all local and delegated external CDN resources.
+Policy Repository virtualizes all of the policies within a peering arrangement including P WS , P M , and P Peering (i.e. Web server-specific policies, mediator policies, peering policies), along with any delegated policies for resources as a result of the peering arrangement.
+Policy Repository provides a set of rules to the mediator to administer, manage, and control access to the resources in a peering arrangement.
+Policy Repository returns existing peering policies to the PA during the establishment of long-term peering arrangements.
+Peering Agent acts as a policy-driven resource discovery module for establishing negotiations.
+Peering Agent exchanges policy, resource information, and service requirements with external PAs.
+Peering Agent is used as a conduit by the mediator to establish negotiations with PAs of other peers and to acquire resources from them.
+Content replication is performed using a cooperative pull-based approach where participating CDNs assist each others in serving data.
+Load distribution is performed by measuring the load information and disseminating it within individual CDNs and amongst other CDNs using a hierarchical approach.
+Request assignment and redirection is performed at multiple levels – at the DNS, at the gateways to local clusters, and also (redirection) between servers in a cluster.
+Web Server publishes its resource and service information to the SR.
+Service registry registers available local resources at the CDN provider and updates them.
+Mediator collects up-to-date resource information from SR.
+End-user requests for content.
+Mediator receives initiation request from WS to trigger peering.
+Malicious requests are detected and rejected.
+Web servers have already replicated necessary content.
+Both anticipated and unanticipated user requests (traffic) are considered. REQ-4: The format of the initiation request is defined.
+Service registry sends resource and access information.
+Policy Repository sends policy information for establishing negotiated relationships.
+Peering agent receives service requirements from the mediator.
+External Peering agent negotiates with the Peering agent of the primary CDN.
+Peering agent receives negotiated policies from the local Peering agent.
+If the user requests can not be accepted according the provider policies, service requirements are not passed to the local Peering agent.
+Local Peering agent receives service requirements from the mediator.
+If any peering policies exist, they are returned to establish long-term peering arrangement.
+External Peering agent Exchanges configurations and content availability information, and accepts requests to an optimal peer.
+Policy Repository Assists in enforcing negotiated policies.
+The system must allow a member of the network to send requests to a particular or all the other members about possible delivery of a driver’s smart card to a similar person. 
+The system must allow a member of the network to send a bulk request on all or a large part of its driver’s smart card holders to a particular or all members of the network. 
+The system must allow a member to do statistics on messages issued and received from or to his system. 
+The system must provide automatic reply to the sender of the request through the use of a standard interface to the Members systems.
+The system must track the workflow between senders and related replies. 
+The system must be able, in accordance with the rules on delays for each transaction, to automatically transmit alert messages to senders/replier/administrator when, f.i. a constraint on delay for reply is not fulfilled.
+The system must allow the administrator to extract statistics of use, standard delay of reply by member or period, percentage of unsuccessful transaction, etc.
+The system must provide the management of user rights and permissions. 
+The system must be able to define and manage various type of messages already in the driver’s smart card holder like pre-delivery check, stolen/lost cards, renewals, exchanges and duplicates. 
+The system must be able to include new members in the network through simple administrative tasks. 
+The system must be highly automatic to relieve the users of as many repetitive and tedious tasks as possible. 
+The system must provide at application level a full security and encryption policy compatible with the level of security required in such situation. 
+The system must be such that none of the Member States of the network, including the administrator, re-construct a consolidated European database. 
+The system must allow a Member State to ask for the status of card to the corresponding Card Issuing Authority of the Member State having issued the card. 
+The system must allow a Member State to send card status modification requests to the corresponding Card Issuing Authority of the Member State having issued the card. 
+The system must allow enforcement authorities through its Card Issuing Authority to ask for driver’s card status, based on either card number and issuing Member State code or driver’s surname, first names, date of birth and issuing Member State code to the corresponding Card Issuing Authority of the Member State having issued the card. 
+The system must allow enforcement authorities through its Card Issuing Authority to ask for workshop card status, based on workshop card number and issuing Member State code to the corresponding Card Issuing Authority of the Member State having issued the card. 
+The system must guide users through an interface based on end user concepts.
+The system must be easy to learn and does not obstruct the thematic understanding of the users.
+The system must make it easy to correct mistakes.
+The system is to be designed as a robust and dependable operational system which is tolerant to operator errors and which will recover cleanly from power cuts or other disasters. 
+The system must function reliably, with few or no interruptions in its first operational year and fewer still thereafter. 
+The system must give stable and reproducible results. 
+There will be no restriction in time or place for the use of the software built from the specifications produced under this contract. 
+The system must be able to establish and keep the dialog with the Members systems despite the various technical environments and technologies used on their sites. 
+The system will be designed so that background tasks can continue while the user performs foreground tasks.
+The system will be used 24x7 by operators under pressure to produce results rapidly. The system must respond rapidly to user requests irrespective of any background tasks. Such high availability (24x7) is also required from the Member States systems to ensure acceptable response time which should be less than 1 minute to enforcement authorities requests. 
+The system should be able to support other types of message structure to cover f.i. a future driving licence network and correlated activities. 
+The system must be maintainable and extensible. 
+The system must be designed so that it can migrate to upgraded hardware or new versions of the operating systems involved. 
+The system must be able to migrate to other type of network than the one proposed by TESTA-II. 
+The system must provide solutions or rules regarding data encoding problems such as supporting different character sets, name truncation rules, name matching in case of misspelling, etc.
+The system must be designed and documented with the expectation that its operational lifetime will be many years. 
+Each Member of this network will organise its data about smart card holders with no constraints or recommendations on operating system and/or technology used. The system will be able to dialog with these environments or specify a generic interface to dialog with the Member’s applications.
+The system must use the network facilities supplied by the TESTA-II network. 
+Most of the functionality of the new software shall depend on pre-existing or commercially available software. 
+The APAF system shall acquire from ESOC the telemetry data of the ASPERA-3 Experiment and Mars Express Orbit/Attitude.
+The APAF system shall process all ASPERA-3 science data into IDFS data sets.
+The APAF system shall process the engineering and ancillary information necessary for calibration and science validation into IDFS data sets.
+Intermediate files of cleaned-up ASPERA-3 and MEX OA telemetry shall be generated in the event that cleaned-up telemetry is not provided by ESOC.
+The ASPERA-3 and MEX OA telemetry data shall be stored on a local SwRI archive.
+Any APAF-generated intermediate files of ASPERA-3 and MEX OA cleaned-up telemetry shall be stored on a local SwRI archive.
+Web-based displays of the most current ASPERA-3 data shall be provided for public view.
+Web-based displays defined by the ASPERA-3 team shall be provided where any available ASPERA-3 data can be used for science analysis.
+The web-based displays defined by the ASPERA-3 team to be used for science analysis shall be password protected until the ASPERA-3 data is made public.
+The APAF ground data system shall have built-in error handling.
+ASPERA-3 and MEX OA IDFS data and any APAF-generated intermediate files of ASPERA-3 and MEX OA cleaned-up telemetry shall be provided to all ASPERA-3 Co-I’s.
+IDFS data access software developed by SwRI shall be made available to the ASPERA-3 Co-I’s.
+Science analysis software developed by SwRI to analyze IDFS-formatted data shall be made available to the ASPERA-3 Co-I’s.
+System runs on a fully relational, SQL-based database system. 
+Ability to run SQL queries against any table in the database. 
+Ability to access database as an ODBC source. 
+All data tables and data storage are fully accessible.
+The system provides real-time processing.
+system supports live shelf reading and weeding.
+Ability for multiple staff members and patrons to simultaneously access and update patron and item records  including on staff check-in and check-out terminals, on self check-out stations, through SIP2/NCIP2 and similar protocols and APIs, and in OPAC. 
+Depending on assigned privileges, staff can view all patron and item fields
+patrons can access only selected fields. 
+Record changes are applied in a reasonable way, with prompts to warn when a record has been changed since it was displayed.
+For any patron record or item record, staff can identify location, user, date and time it is in use.
+Support for individual and shared staff login accounts.
+access to modules is granted by use of roles or privileges that allow eachaccount to access as many modules as needed. 
+Individual logins allow user-level preferences and audit trail.
+System documentation is library-specific and follows standard formats for technical documentation. 
+Documentation is specific to the particular version of the software in use at library. 
+Documentation is web-based, indexed, organized by function, and easily searchable.
+System upgrades and updates include written guidelines for updating servers and clients. 
+Includes list of new, changed, and removed features.
+System provides access to all configuration files.
+System provides full access to all log files. 
+Log files can be reviewed without stopping system. 
+Logs can be enabled, disabled, and set to a specific retention threshold.
+System provides access to root shell.
+System supports creation of custom dashboards that display current and historical data about system performance
+System supports record creation and modification, circulation transactions, etc. 
+Administrators can create dashboards and give access to selected users and groups.
+System provides full support for SNMP and supports monitoring of system resources, including disk space, CPU load, memory load, system processes, system interfaces and ports. 
+Alert thresholds are configurable. 
+Alerts can be sent via administrative dashboards, email messages, and text messages. 
+Alerts can be sent to unlimited number of recipients via any or all alert methods.
+Ability to set thresholds on the length of time records are locked.provide, for all record types, a list of records in sustained use/locked condition. 
+Ability from the same console to unlock one or more records.
+System provides dashboard of performance monitoring and management tools. 
+Identification of processes with process ID, owner username, IP address (if applicable), CPU utilization, memory utilization, run time. 
+Runaway processes are identified. 
+System status is represented by visual indicators.
+System provides a server management console including software shutdown utility, software startup utility, server shutdown utility, server restart utility. 
+System provides an administrative dashboard displaying last full and incremental backup, last software upgrade current software version,transactions waiting to be processed, size of log-files,
+System provides current count of records by record type (item, bibliographic, patron etc), database utilization (size, processes running).
+System provides a management console displaying workstations running client software; workstation name and IP address; and utilities for managing and killing client sessions.
+System provides a circulation dashboard showing key performace indicators such as check-outs per hour, check-ins per hour, holds placed per hour, holds paged per day, etc. 
+Indicators can be limited to a single branch or set to systemwide.
+System provides a single console with access to all configuration files. 
+Read and write permission to individual configuration files can be assigned to users and groups.
+System provides a dashboard for locating and viewing log files.
+System provides a single interface for reviewing and controlling scheduled tasks.
+Including staff-scheduled tasks, automated reports, scheduled imports and exports, software updates, etc.
+Ability to access and edit email configuration, including a quick menu of common settings such as masquerading, log retention, bounce management.
+System supports SMTP for email transport.
+System supports restrictions based on business rules.
+System supports restrictions on deleting item records that are in checked-out status.
+System supports restrictions on deleting bibliographic records with existing holds.
+System provides customizable Rules of Suppression that specify whether patrons and staff can view authority, bibliographic, order, and item records in staff and public (OPAC) interfaces. 
+Records may be visible to specific workgroups only.
+Records may be visible to all staff and patrons at specific locations or to all staff and all patrons.
+System allows creation and modification of requesting rules that determine whether a patron can place a hold on an item. 
+Requesting rules may evaluate patron type, current number of holds, current patron account balance, item type, item status, owning location code, and other criteria. 
+Requesting rules may prohibit patrons from placing holds on CD titles.
+Requesting rules allow patrons to place holds on other titles. 
+Requesting rules also specify whether staff with specific privileges or roles can override specific criteria.
+System allows creation and modification of loan rules that allow or disallow check-out of items, calculate loan periods, and determine renewal limits. 
+Loan rules may evaluate patron type, current number of items checked out, current patron account balance, item type, item status, owning location code, check-out location code, and other criteria. 
+Loan rules can access check-out location open/closed schedule in calculating due date. 
+Loan rules also specify whether a specific criteria may be overridden by staff with specific privileges or roles. 
+Ability to specify default value, data validation, automatic formatting, and required status for any field.
+System provides capability to perform live incremental and full backups of data and transaction logs. 
+System supports use of third-party backup software such as EMC NetWorker.
+System logs data changes such as record deletions and provides undo functionality. 
+Ideally, system provides revision control.
+Ability to cluster servers for failover capability.
+Patron data is secure in all transfers to and from the system.
+System administrative staff has full visibility and control of user privileges.
+System supports secure protocols, including SFTP, SSL, and SSH.
+SFTP is supported in both active and passive modes, configurable per vendor.
+MARC bibliographic and authority records can be imported and exported, singly and in batch.
+All fields or selected fields, to and from vendors including OCLC. 
+Imported records can overlay existing short or full bibliographic records. 
+Imported batches can be maintained and manipulated as selection lists.
+System supports an unlimited number of record sets, with the ability to import and export set members in batch. 
+Record sets can be the basis for batch field updates.
+Record sets can be the basis can be used as a limiting scope for queries.
+Record sets can be the basis can be used to delete original records with the ability to review prior to deletion,
+Record sets can be the basis can be used to write errors to a log file, and undo one or more deletions.
+System provides a dedicated interface for creating new staff accounts.
+New staff account creation process provides configurable templates for account administrator use.
+New staff account creation process provides granular privileges for account creation, modification, and deletion.
+System provides a dedicated interface for creating new patron accounts. 
+Patron account creation process provides configurable templates for staff use.
+Patron account creation process provides supports field validation and required fields.
+Patron account creation process provides configurable defaults.
+System supports scheduling of maintenance tasks, reports, and data exports. 
+Jobs can be scheduled in sequence.
+Jobs can be modified or cancelled at any time prior to starting.
+Staff can be given permission to schedule tasks, reports, and data exports. 
+System administration staff can view and manage jobs scheduled by other staff.
+System supports administrator-programmable and user-programmable macros and/or keyboard shortcuts. 
+Shortcut keys may be assigned to macros or to text strings. 
+Macros are centrally managed on server.
+Macros can be imported from and exported to individual users.
+Macros and can be restricted for use and/or editting through centrally managed permissions.
+Staff and group accounts are independent from workstations.
+Client install should not be tied to a specific location.
+Client software installation and updates must be centrally managed.
+Client software installation and updates must be done using standard or proprietary network management tools, allowing streaming updates from server. 
+Ability to specify specific clients to be updated. 
+Client software can be managed with VNC and Remote Desktop.
+All client configuration files are server based.
+All client configuration files can be exported between clients.
+All client configuration files can be between clients.
+Ability to fully customize layout and appearance of reports. 
+Ability to display, print, email, save report to standard  CSV format.
+Ability to display, print, email, save report to standard  Excel format.
+Ability to display, print, email, save report to customizable formats.
+System provides a user-friendly interface for designing queries against all record types. 
+Staff can select fields to query.
+Staff can select values from picklist of possible values.
+Staff can select regular expressions from drop-down menu.
+Staff can use a full range of Boolean operators. 
+Administrators control staff access to tables and fields.
+System administrators can create report templates that are available to front-line staff.
+System administrators can create report templates that can be run as is or modified to the staff person's particular needs.
+System provides fine-grained permissions to allow or disallow staff to run specific reports
+System provides fine-grained permissions to allow or disallow staff to run ad hoc reports on specific sets of data.
+System reports for each record type like current record number, current number of records, number deleted, and number purged. 
+Record types include patron, bibliographic, item, order, invoice, etc. 
+Access to record numbers is controlled at the user or group level.
+Ability to define and select four types of printers like receipt printer, standard printer, label printer, and forms printer. 
+All Windows printers are supported.
+Ability to print to a file on the server, ftp , email, or printer from any part of the application. 
+When applicable, the ability to select record fields and control order of fields when printing.
+The APAF system shall acquire from ESOC the telemetry data of the ASPERA-3 Experiment and Mars Express Orbit/Attitude.
+The APAF system shall process all ASPERA-3 science data into IDFS data sets.
+The APAF system shall process the engineering and ancillary information necessary for calibration and science validation into IDFS data sets.
+Intermediate files of cleaned-up ASPERA-3 and MEX OA telemetry shall be generated in the event that cleaned-up telemetry is not provided by ESOC.
+The ASPERA-3 and MEX OA telemetry data shall be stored on a local SwRI archive.
+Any APAF-generated intermediate files of ASPERA-3 and MEX OA cleaned-up telemetry shall be stored on a local SwRI archive.
+Web-based displays of the most current ASPERA-3 data shall be provided for public view.
+Web-based displays defined by the ASPERA-3 team shall be provided where any available ASPERA-3 data can be used for science analysis.
+The web-based displays defined by the ASPERA-3 team to be used for science analysis shall be password protected until the ASPERA-3 data is made public.
+The APAF ground data system shall have built-in error handling.
+ASPERA-3 and MEX OA IDFS data and any APAF-generated intermediate files of ASPERA-3 and MEX OA cleaned-up telemetry shall be provided to all ASPERA-3 Co-I’s.
+IDFS data access software developed by SwRI shall be made available to the ASPERA-3 Co-I’s.
+Science analysis software developed by SwRI to analyze IDFS-formatted data shall be made available to the ASPERA-3 Co-I’s.

@@ -1,0 +1,554 @@
+SUBJECT|SUB_NER|SCALAR_TYPE|TAG|VERB|VCAT|TAG|OBJECT|OBJ_NER|SCALAR_TYPE|TAG|LABEL 
+system|O|0|NN|shall allow|Other|VB|user|O|0|NN
+system|O|0|NN|shall allow|Other|VB|user|O|0|NN
+system|O|0|NN|shall allow|Other|VB|user|O|0|NN
+system|O|0|NN|shall check|Other|VB|see|O|0|VB
+system|O|0|NN|shall copy time submission to|Other|TO|new day|DURATION|0|NN
+system|O|0|NN|shall allow|Other|VB|user|O|0|NN
+system|O|0|NN|shall allow|Other|VB|user|O|0|NN
+system|O|0|NN|shall check|Other|VB|see|O|0|VB
+system|O|0|NN|shall|Other|MD|copy selected|O|0|VBN
+system|O|0|NN|shall allow|Other|VB|user|O|0|NN
+required information|O|0|NN|is|IS-A|VBZ|present|DATE|0|JJ
+system|O|0|NN|shall recall|Other|VB|previously saved data|O|0|NNS
+system|O|0|NN|shall recall|Other|VB|data from database|O|0|NN
+system|O|0|NN|generate|Other|VBP|PDF of formatted data|O|0|NNS
+administrator|TITLE|0|NN|is with|Other|IN|correct permissions|O|0|NNS
+administrator|TITLE|0|NN|is with|Other|IN|correct permissions|O|0|NNS
+administrator|TITLE|0|NN|is with|Other|IN|correct permissions|O|0|NNS
+administrator|TITLE|0|NN|is with|Other|IN|correct permissions|O|0|NNS
+administrator|TITLE|0|NN|is with|Other|IN|correct permissions|O|0|NNS
+administrator|TITLE|0|NN|is with|Other|IN|correct permissions|O|0|NNS
+administrator|TITLE|0|NN|is with|Other|IN|correct permissions|O|0|NNS
+administrator|TITLE|0|NN|is with|Other|IN|correct permissions|O|0|NNS
+administrator|TITLE|0|NN|is with|Other|IN|correct permissions|O|0|NNS
+system|O|0|NN|shall let|Other|VB|user|O|0|NN
+system|O|0|NN|shall let|Other|VB|user|O|0|NN
+system|O|0|NN|shall let|Other|VB|user|O|0|NN
+administrator|TITLE|0|NN|is with|Other|IN|correct permissions|O|0|NNS
+administrator|TITLE|0|NN|is with|Other|IN|correct permissions|O|0|NNS
+administrator|TITLE|0|NN|is with|Other|IN|correct permissions|O|0|NNS
+desired user|O|0|NN|is|IS-A|VBZ|valid|O|0|JJ
+administrator|TITLE|0|NN|is with|Other|IN|correct permissions|O|0|NNS
+administrator|TITLE|0|NN|is with|Other|IN|correct permissions|O|0|NNS
+administrator|TITLE|0|NN|is with|Other|IN|correct permissions|O|0|NNS
+administrator|TITLE|0|NN|is with|Other|IN|correct permissions|O|0|NNS
+administrator|TITLE|0|NN|is with|Other|IN|correct permissions|O|0|NNS
+Users|O|0|NNS|log in to|Other|TO|system for operations|O|0|NNS
+system|O|0|NN|shall permit|Other|VB|only staff members|O|0|NNS
+users|O|0|NNS|information of|Other|IN|other users|O|0|NNS
+Responses|O|0|NNS|shall take|Other|VB|load onto screen|O|0|NN
+Web application|O|0|NN|using|Other|VBG|mouse combinations|O|0|NNS
+Android application|O|0|NN|shall support|Other|VB|virtual keyboard input|O|0|NN
+system|O|0|NN|shall communicate through|Other|IN|programmatic interface|O|0|NN
+data|O|0|NNS|be stored on|Other|IN|Google App Engine|O|0|NNP
+system|O|0|NN|shall allow|Other|VB|user|O|0|NN
+system|O|0|NN|shall display|Other|VB|available components of product|O|0|NN
+system|O|0|NN|shall enable|Other|VB|user|O|0|NN
+system|O|0|NN|shall notify user about|Other|IN|conflict in current configuration|O|0|NN
+conflict|O|0|NN|is in|Other|IN|current configuration|O|0|NN
+user|O|0|NN|confirm|Other|VB|completion of current configuration|O|0|NN
+system|O|0|NN|shall display|Other|VB|detailed information of selected products|O|0|NNS
+browsing options|O|0|NNS|see|Other|VB|product details|O|0|NNS
+system|O|0|NN|shall display product categorization to|Other|TO|user|O|0|NN
+user|O|0|NN|enter search text on|Other|IN|screen|O|0|NN
+user|O|0|NN|select|Other|VB|multiple options on screen|O|0|NN
+system|O|0|NN|shall display|Other|VB|only 10 matching result|O|0|NN
+system|O|0|NN|shall enable|Other|VB|navigate between search|O|0|NN
+system|O|0|NN|shall display|Other|VB|active order history in customer profile|O|0|NN
+user|O|0|NN|select order from|Other|IN|order history|O|0|NN
+system|O|0|NN|shall display|Other|VB|detailed information about selected order|O|0|NN
+system|O|0|NN|shall display items by|Other|IN|user in profile|O|0|NN
+system|O|0|NN|shall allow|Other|VB|register for newsletters in profile|O|0|NN
+system|O|0|NN|shall provide|Other|VB|sitemap options for customer support|O|0|NN
+user|O|0|NN|select|Other|VB|support type|O|0|NN
+user|O|0|NN|enter customer information for|Other|IN|support|O|0|NN
+system|O|0|NN|shall display customer support contact numbers on|Other|IN|screen|O|0|NN
+user|O|0|NN|enter contact number|Other|NN|support personnel call|O|0|VB
+system|O|0|NN|shall display help upon|Other|IN|request|O|0|NN
+system|O|0|NN|shall display FAQ upon|Other|IN|request|O|0|NN
+system|O|0|NN|shall maintain customer email information as|Other|IN|required part of customer profile|O|0|NN
+system|O|0|NN|shall send|Other|VB|order|O|0|NN
+system|O|0|NN|shall display invoice for|Other|IN|current order|O|0|NN
+system|O|0|NN|shall optionally allow|Other|VB|user|O|0|NN
+system|O|0|NN|shall provide shopping cart during|Other|IN|online purchase|O|0|NN
+system|O|0|NN|shall allow user to|Other|TO|add/remove products in shopping cart|O|0|NN
+system|O|0|NN|shall display|Other|VB|different shipping options provided by shipping department|O|0|NN
+user|O|0|NN|select shipping method during|Other|IN|payment process|O|0|NN
+system|O|0|NN|shall display|Other|VB|shipping charges|O|0|NNS
+system|O|0|NN|shall display|Other|VB|tentative duration for shipping|O|0|NN
+user|O|0|NN|enter|Other|VB|order information for tracking|O|0|NN
+system|O|0|NN|shall display|Other|VB|current tracking information about order|O|0|NN
+system|O|0|NN|shall calculate tax for|Other|IN|order|O|0|NN
+system|O|0|NN|shall display tax information for|Other|IN|order|O|0|NN
+system|O|0|NN|shall display|Other|VB|available payment methods for payment|O|0|NN
+user|O|0|NN|select|Other|VB|payment method for order|O|0|NN
+system|O|0|NN|shall display|Other|VB|orders|O|0|NNS
+system|O|0|NN|shall allow|Other|VB|user|O|0|NN
+system|O|0|NN|shall allow|Other|VB|user|O|0|NN
+system|O|0|NN|shall allow|Other|VB|user|O|0|NN
+system|O|0|NN|shall notify user about|Other|IN|changes made to order|O|0|NN
+system|O|0|NN|shall display|Other|VB|reviews of product|O|0|NN
+system|O|0|NN|shall enable|Other|VB|user|O|0|NN
+system|O|0|NN|shall display|Other|VB|available financing options|O|0|NNS
+system|O|0|NN|shall allow|Other|VB|user|O|0|NN
+system|O|0|NN|shall notify|Other|VB|use about financing request|O|0|NN
+system|O|0|NN|shall allow|Other|VB|user|O|0|NN
+system|O|0|NN|shall display|Other|VB|available promotions|O|0|NNS
+system|O|0|NN|shall allow|Other|VB|user|O|0|NN
+system|O|0|NN|shall allow|Other|VB|user|O|0|NN
+user|O|0|NN|enter|Other|VB|payment information|O|0|NN
+system|O|0|NN|shall provide|Other|VB|uniform look|O|0|NN
+system|O|0|NN|shall provide|Other|VB|digital image for product|O|0|NN
+system|O|0|NN|shall provide|Other|VB|use of icons|O|0|NNS
+system|O|0|NN|shall provide|Other|VB|handicap access|O|0|NN
+system|O|0|NN|shall provide|Other|VB|multi language support|O|0|NN
+system|O|0|NN|shall provide|Other|VB|storage of databases on redundant computers|O|0|NNS
+system|O|0|NN|shall provide for|Other|IN|replication of databases to off-site storage locations|O|0|NNS
+system|O|0|NN|shall provide|Other|VB|RAID V Disk Stripping on database storage disks|O|0|NNS
+Virtual-EDU|O|0|JJ|consists of|Other|IN|online website|O|0|NN
+system|O|0|NN|provides|Other|VBZ|new distance learning platform|O|0|NN
+system|O|0|NN|will allow|Other|VB|communicate more effectively with students|O|0|NNS
+user|O|0|NN|share|Other|VB|his profile information|O|0|NN
+user|O|0|NN|manage|Other|VB|private temporary hosting space|O|0|NN
+system|O|0|NN|allow|Other|VBP|ability for file sharing for collaborative work|O|0|NN
+ability|O|0|NN|work together in|Other|IN|real time|O|0|NN
+system|O|0|NN|allow|Other|VBP|abilityshare|O|0|NN
+students|O|0|NNS|submit class assignments to|Other|TO|professor|TITLE|0|NN
+assignment|O|0|NN|is accepted based on|Other|IN|submission deadlines|O|0|NNS
+system|O|0|NN|notifies|Other|VBZ|student|TITLE|0|NN
+assignment|O|0|NN|is|IS-A|VBZ|when accepted|O|0|VBN
+system|O|0|NN|archives|Other|VBZ|accepted assignments|O|0|NNS
+system|O|0|NN|provides testing tools with|Other|IN|instant grading|O|0|NN
+system|O|0|NN|notifies grades to|Other|TO|students|O|0|NNS
+system|O|0|NN|provides|Other|VBZ|one-to-one connection|O|0|NN
+account holder|O|0|NN|make|Other|VB|changes in profile|O|0|NN
+system|O|0|NN|allows|Other|VBZ|user|O|0|NN
+system usage|O|0|NN|is limited to|Other|TO|only Windows XP|MISC|0|NN
+system usage|O|0|NN|is limited to|Other|TO|only Internet Explorer|TITLE|0|NNP
+their computers|O|0|NNS|equipped with|Other|IN|microphone|O|0|NN
+Real Player|O|0|NNP|installed on|Other|IN|their systems|O|0|NNS
+privacy statement|O|0|NN|prior using|Other|VBG|application sharing|O|0|NN
+System|MISC|0|NNP|is|IS-A|VBZ|software application|O|0|NN
+system|O|0|NN|assists|Other|VBZ|airline with transactions related|O|0|VBN
+repetitive work|O|0|NN|done by|Other|IN|system administrator|TITLE|0|NN
+information|O|0|NN|required from|Other|IN|customers|O|0|NNS
+validity|O|0|NN|give feedback in case of|Other|IN|errors|O|0|NNS
+customer|O|0|NN|has|containment|null|privacy concerns|O|0|NNS
+travelers|O|0|NNS|make|Other|VB|changes to their trip|O|0|NN
+software|O|0|NN|must|Other|MD|must launched into graphical user interface|O|0|NN
+graphical user interface|O|0|NN|load|Other|VB|sorted network file|O|0|NN
+graphical user interface|O|0|NN|generate|Other|VB|new network files|O|0|NNS
+graphical user interface|O|0|NN|must|Other|MD|must able|O|0|JJ
+graphical user interface|O|0|NN|must display end reliability in|Other|IN|decimal format|O|0|NN
+graphical user interface|O|0|NN|must display|Other|VB|number of nodes generated in whole tree|O|0|NN
+graphical user interface|O|0|NN|must display|Other|VB|number of total nodes processed|O|0|VBN
+graphical user interface|O|0|NN|must display maximum number nodes at|Other|IN|one level|O|0|NN
+software|O|0|NN|calculate reliability with|Other|IN|as low of time complexity|O|0|NN
+software|O|0|NN|load|Other|VB|sorted network file for computation|O|0|NN
+software|O|0|NN|must compute|Other|VB|reliability of successful network|O|0|NN
+software|O|0|NN|must output|Other|NN|reliability|O|0|NN
+software|O|0|NN|maximum number at|Other|IN|level|O|0|NN
+software|O|0|NN|must compute|Other|VB|total number of nodes generated in whole tree|O|0|NN
+software|O|0|NN|must compute|Other|VB|total number of nodes processed|O|0|VBN
+software|O|0|NN|must have|Other|VB|User Manual suitable for user interacting with system|O|0|NN
+software|O|0|NN|must have|Other|VB|User Manual suitable for developer|TITLE|0|NN
+system|O|0|NN|should associate|Other|VB|supervisor indicator with job class|O|0|NN
+system|O|0|NN|should handle|Other|VB|number of existing fees associated with unions|O|0|NNS
+system|O|0|NN|should handle|Other|VB|number of new fees associated with unions|O|0|NNS
+system|O|0|NN|should capture as|Other|IN|active|O|0|JJ
+system|O|0|NN|should assign Supervisor Code based on|Other|IN|value in Job Class table|O|0|NN
+system|O|0|NN|should provide|Other|VB|Labor Relations office|O|0|NN
+system|O|0|NN|should provide|Other|VB|Labor Relations office|O|0|NN
+quality control|O|0|NN|make surface transportation weather|Other|NN|can more productive|O|0|JJ
+Surface transportation-based weather observations|O|0|NNS|will enhance|Other|VB|existing weather data sources|O|0|NNS
+Collection|O|0|NN|will support|Other|VB|real-time operational responses weather|O|0|VB
+Surface transportation-based weather observations|O|0|NNS|will permit|Other|VB|support for enhancement of models|O|0|NNS
+open approach|O|0|NN|be|IS-A|VB|how used|O|0|VBN
+Clarus Initiative|O|0|NNP|will address|Other|VB|necessary infrastructure|O|0|NN
+data coverage|O|0|NN|providing guidance to|Other|TO|owners of data sources regarding quality of their data|O|0|NNS
+Surface transportation environmental data|O|0|NNS|will include|Other|VB|hydrologic data|O|0|NNS
+addition|O|0|NN|will further enhance|Other|VB|general purpose weather forecasting|O|0|NN
+deployed Clarus system|O|0|NN|include|Other|VB|one-stop Internet portal for surface transportation environmental observations|O|0|NNS
+deployed Clarus system|O|0|NN|include|Other|VB|Data provided without post-processing ready|O|0|JJ
+deployed Clarus system|O|0|NN|include quality control to|Other|TO|operators of originating sensor stations|O|0|NNS
+deployed Clarus system|O|0|NN|include|Other|VB|data transferred in one common protocol with full metadata|O|0|NN
+deployed Clarus system|O|0|NN|include|Other|VB|Management of user 's rights to input|O|0|NN
+deployed Clarus system|O|0|NN|include|Other|VB|Support for inclusion of new technologies|O|0|NNS
+Clarus system|O|0|NN|shall collect|Other|VB|quality control|O|0|NN
+Clarus system|O|0|NN|access|Other|NN|in-situ environmental observations from data collectors|O|0|NNS
+Clarus system|O|0|NN|shall|Other|MD|shall able to access|O|0|NN
+Clarus system|O|0|NN|shall calculate data from|Other|IN|observations|O|0|NNS
+Clarus system|O|0|NN|receive|Other|VB|roadway weather measurements derived from VII data|O|0|NNS
+Clarus system|O|0|NN|shall allow|Other|VB|access to new surface transportation|O|0|NN
+Clarus system|O|0|NN|shall accept|Other|VB|environmental data derived from images|O|0|NNS
+Clarus system|O|0|NN|shall accept|Other|VB|surface condition data derived from surface images|O|0|NNS
+Clarus system|O|0|NN|shall accept|Other|VB|atmospheric condition data derived from atmospheric images|O|0|NNS
+Clarus system|O|0|NN|shall accept|Other|VB|weather hazard reports|O|0|NNS
+Clarus system|O|0|NN|retrieve data directly from|Other|IN|environmental sensor stations|O|0|NNS
+Clarus system|O|0|NN|shall minimize|Other|VB|time for data acquisition|O|0|NN
+Clarus system|O|0|NN|shall process data|Other|NNS|received|O|0|VBN
+Clarus system|O|0|NN|shall collect|Other|VB|pavement-related observations|O|0|NNS
+Clarus system|O|0|NN|shall accept|Other|VB|environmental data from railway systems|O|0|NNS
+Clarus system|O|0|NN|shall accept|Other|VB|environmental data from railroad vehicles|O|0|NNS
+Clarus system|O|0|NN|shall accept|Other|VB|environmental data from vehicles|O|0|NNS
+Clarus system|O|0|NN|shall accept|Other|VB|environmental data from maintenance|O|0|NN
+Clarus system|O|0|NN|shall accept|Other|VB|environmental data from service patrol vehicles|O|0|NNS
+Clarus system|O|0|NN|shall accept|Other|VB|environmental data from transit vehicles|O|0|NNS
+Clarus system|O|0|NN|shall accept|Other|VB|environmental data from emergency vehicles|O|0|NNS
+Clarus system|O|0|NN|receive weather data from|Other|IN|weather service providers|O|0|NNS
+Clarus system|O|0|NN|shall implement|Other|VB|continuous quality control processes|O|0|NNS
+Clarus system|O|0|NN|shall provide|Other|VB|environmental data quality flags|O|0|NNS
+Clarus system|O|0|NN|shall provide|Other|VB|notification of data quality conditions|O|0|NNS
+Clarus system|O|0|NN|shall detect out of|Other|IN|range values|O|0|NNS
+Clarus system|O|0|NN|shall apply|Other|VB|appropriate quality checks|O|0|NNS
+human intervention|O|0|NN|override|Other|VB|automatically applied quality assessment|O|0|NN
+methods|O|0|NNS|deriving|Other|VBG|quality control information|O|0|NN
+Clarus system|O|0|NN|implement|Other|VB|quality control rules for environmental parameter|O|0|NN
+Clarus system|O|0|NN|implement|Other|VB|quality control rules for specific environmental situations|O|0|NNS
+Clarus system|O|0|NN|implement|Other|VB|quality control rules specific to observation locations|O|0|NNS
+Clarus system|O|0|NN|base|Other|VB|its quality control process|O|0|NN
+Clarus system|O|0|NN|base|Other|VB|its quality control process|O|0|NN
+Clarus system|O|0|NN|use algorithms for|Other|IN|its quality control process|O|0|NN
+Clarus system|O|0|NN|detect|Other|VB|data submission errors|O|0|NNS
+Clarus system|O|0|NN|provide sensor equipment data in|Other|IN|response to request|O|0|NN
+Clarus system|O|0|NN|shall minimize|Other|VB|time for data dissemination|O|0|NN
+Clarus system|O|0|NN|disseminate|Other|VB|data based on spatial queries|O|0|NNS
+Clarus system|O|0|NN|shall maintain library for|Other|IN|at least seven days|DURATION|0|NNS
+Clarus program|O|0|NN|shall alert users to|Other|TO|system modifications|O|0|NNS
+Clarus system|O|0|NN|shall enable|Other|VB|system administrators|O|0|NNS
+Clarus system|O|0|NN|restrict|Other|VB|environmental data publication based on source|O|0|NN
+Clarus system|O|0|NN|shall record|Other|VB|statistics about its operation|O|0|NN
+Clarus system|O|0|NN|shall log|Other|VB|data transactions|O|0|NNS
+Clarus system|O|0|NN|shall accept|Other|VB|environmental data from maintenance|O|0|NN
+Clarus system|O|0|NN|shall accept|Other|VB|environmental data from service patrol vehicles|O|0|NNS
+Clarus system|O|0|NN|shall accept|Other|VB|environmental data from transit vehicles|O|0|NNS
+Clarus system|O|0|NN|shall accept|Other|VB|environmental data from emergency vehicles|O|0|NNS
+Clarus system|O|0|NN|receive weather data from|Other|IN|weather service providers|O|0|NNS
+Clarus system|O|0|NN|shall implement|Other|VB|continuous quality control processes|O|0|NNS
+Clarus system|O|0|NN|shall provide|Other|VB|environmental data quality flags|O|0|NNS
+Clarus system|O|0|NN|shall provide|Other|VB|notification of data quality conditions|O|0|NNS
+Clarus system|O|0|NN|shall detect out of|Other|IN|range values|O|0|NNS
+Clarus system|O|0|NN|shall apply|Other|VB|appropriate quality checks|O|0|NNS
+human intervention|O|0|NN|override|Other|VB|automatically applied quality assessment|O|0|NN
+methods|O|0|NNS|deriving|Other|VBG|quality control information|O|0|NN
+Clarus system|O|0|NN|implement|Other|VB|quality control rules for environmental parameter|O|0|NN
+Clarus system|O|0|NN|implement|Other|VB|quality control rules for specific environmental situations|O|0|NNS
+Clarus system|O|0|NN|implement|Other|VB|quality control rules specific to observation locations|O|0|NNS
+Clarus system|O|0|NN|base|Other|VB|its quality control process|O|0|NN
+Clarus system|O|0|NN|base|Other|VB|its quality control process|O|0|NN
+Clarus system|O|0|NN|use algorithms for|Other|IN|its quality control process|O|0|NN
+Clarus system|O|0|NN|detect|Other|VB|data submission errors|O|0|NNS
+Clarus system|O|0|NN|provide sensor equipment data in|Other|IN|response to request|O|0|NN
+Clarus system|O|0|NN|shall minimize|Other|VB|time for data dissemination|O|0|NN
+Clarus system|O|0|NN|disseminate|Other|VB|data based on spatial queries|O|0|NNS
+Clarus system|O|0|NN|shall maintain library for|Other|IN|at least seven days|DURATION|0|NNS
+Clarus program|O|0|NN|shall alert users to|Other|TO|system modifications|O|0|NNS
+Clarus system|O|0|NN|shall enable|Other|VB|system administrators|O|0|NNS
+Clarus system|O|0|NN|restrict|Other|VB|environmental data publication based on source|O|0|NN
+Clarus system|O|0|NN|shall record|Other|VB|statistics about its operation|O|0|NN
+Clarus system|O|0|NN|shall log|Other|VB|data transactions|O|0|NNS
+Clarus system|O|0|NN|disseminate|Other|VB|surface data|O|0|NNS
+Clarus system|O|0|NN|disseminate|Other|VB|hydrologic data|O|0|NNS
+Clarus system|O|0|NN|disseminate|Other|VB|atmospheric metadata|O|0|NN
+Clarus system|O|0|NN|disseminate|Other|VB|surface metadata|O|0|NN
+Clarus system|O|0|NN|disseminate|Other|VB|hydrologic metadata|O|0|NN
+Clarus system|O|0|NN|shall accept|Other|VB|only observations|O|0|NNS
+Clarus system|O|0|NN|shall accept|Other|VB|only observations of known measurement types|O|0|NNS
+Clarus system|O|0|NN|disseminate|Other|VB|environmental sensor station metadata|O|0|NN
+Clarus system|O|0|NN|shall|Other|MD|shall able|O|0|JJ
+Clarus system|O|0|NN|shall accept data through|Other|IN|Clarus standard interface|O|0|NN
+Clarus system|O|0|NN|communicate with|Other|IN|environmental sensor stations|O|0|NNS
+Clarus system|O|0|NN|communicate through|Other|IN|their native interfaces|O|0|NNS
+Clarus system|O|0|NN|communicate through|Other|IN|its native interface|O|0|NN
+Clarus system|O|0|NN|collect|Other|VB|environmental data|O|0|NNS
+Clarus system|O|0|NN|shall transfer as efficiently|Other|RB|data|O|0|NNS
+Clarus system|O|0|NN|minimize implementation impact to|Other|TO|users|O|0|NNS
+service providers|O|0|NNS|select|Other|VB|specific desired data sets|O|0|NNS
+Clarus system|O|0|NN|shall respond to|Other|TO|queries for environmental data from available data|O|0|NNS
+Clarus system|O|0|NN|shall enable data queries by|Other|IN|timestamp|O|0|NN
+Clarus system|O|0|NN|shall enable data queries by|Other|IN|location reference|O|0|NN
+Clarus system|O|0|NN|shall enable data queries by|Other|IN|quality|O|0|NN
+Clarus system|O|0|NN|shall enable data queries by|Other|IN|source|O|0|NN
+Clarus system|O|0|NN|shall provide|Other|VB|user interface for system administration|O|0|NN
+Clarus system|O|0|NN|shall manage system user privileges according to|Other|TO|Clarus data|O|0|NNS
+users|O|0|NNS|create|Other|VB|data subscription request|O|0|NN
+Clarus system|O|0|NN|shall respond to|Other|TO|queries for environmental data from available data|O|0|NNS
+Clarus system|O|0|NN|shall enable data queries by|Other|IN|timestamp|O|0|NN
+Clarus system|O|0|NN|shall enable data queries by|Other|IN|location reference|O|0|NN
+Clarus system|O|0|NN|shall enable data queries by|Other|IN|quality|O|0|NN
+Clarus system|O|0|NN|shall enable data queries by|Other|IN|source|O|0|NN
+Clarus system|O|0|NN|shall provide|Other|VB|user interface for system administration|O|0|NN
+Clarus system|O|0|NN|shall manage system user privileges according to|Other|TO|Clarus data|O|0|NNS
+users|O|0|NNS|create|Other|VB|data subscription request|O|0|NN
+Clarus system|O|0|NN|shall|Other|MD|shall able|O|0|JJ
+Clarus system|O|0|NN|shall use|Other|VB|hardware|O|0|NN
+Clarus system|O|0|NN|shall use|Other|VB|software|O|0|NN
+Clarus system|O|0|NN|operate on|Other|IN|redundant hardware|O|0|NN
+Clarus system|O|0|NN|shall disseminate data in|Other|IN|response to scheduled request|O|0|NN
+Clarus system|O|0|NN|shall disseminate data in|Other|IN|response to polling|O|0|NN
+Clarus system|O|0|NN|shall disseminate data in|Other|IN|response to change notification request|O|0|NN
+Clarus system|O|0|NN|shall|Other|MD|shall able|O|0|JJ
+data|O|0|NNS|using|Other|VBG|standard Internet protocols|O|0|NNS
+HTML coding|O|0|VBG|shall meet|Other|VB|FHWA requirements for web sites|O|0|NNS
+Clarus system|O|0|NN|shall support|Other|VB|modular components|O|0|NNS
+Clarus system|O|0|NN|use|Other|VB|standard GPS|O|0|NN
+Clarus system|O|0|NN|shall use Coordinated Universal Time for|Other|IN|timestamps|O|0|NNS
+Clarus system|TITLE|0|NN|shall have|Other|VB|minimum of one system administrator|TITLE|0|NN
+Clarus system|O|0|NN|mitigate|Other|VB|communication denial-of-service attacks|CAUSE_OF_DEATH|0|NNS
+Clarus system|O|0|NN|automatically recover from|Other|IN|unexpected shutdown|O|0|NN
+Clarus system|O|0|NN|shall|Other|MD|shall able|O|0|JJ
+Clarus system|O|0|NN|publish data at|Other|IN|three times volume rate|O|0|NN
+Clarus system|O|0|NN|prioritize|Other|VB|data handling for time-critical data|O|0|NNS
+Clarus system|O|0|NN|shall support|Other|VB|470 million current observations|O|0|NNS
+Clarus system|O|0|NN|collect data within|Other|IN|5 minutes of them|O|0|PRP
+Clarus system|O|0|NN|shall|Other|MD|shall able|O|0|JJ
+Clarus system|O|0|NN|complete quality control check within|Other|IN|ten seconds of data receipt|O|0|NN
+Clarus system|O|0|NN|publish data within|Other|IN|twenty minutes of data receipt|O|0|NN
+Clarus system|O|0|NN|shall respond to|Other|TO|request for information within one minute|DURATION|0|NN
+Clarus system|O|0|NN|handle|Other|VB|three hundred simultaneous requests for environmental element data|O|0|NNS
+Clarus system|O|0|NN|support|Other|VB|six hundred concurrent users|O|0|NNS
+Clarus system|O|0|NN|support|Other|VB|six thousand registered users|O|0|NNS
+Clarus system|O|0|NN|shall accept data from|Other|IN|only approved sources|O|0|NNS
+data|O|0|NNS|sharing|Other|VBG|agreements with participating sources of environmental data|O|0|NNS
+Clarus program|O|0|NN|shall maintain|Other|VB|continuous 24x7 operations|O|0|NNS
+Clarus program|O|0|NN|shall provide|Other|VB|environment|O|0|NN
+Clarus program|O|0|NN|shall provide|Other|VB|environment|O|0|NN
+Clarus program|O|0|NN|shall provide|Other|VB|network management tools|O|0|NNS
+Clarus program|O|0|NN|shall provide|Other|VB|setup support|O|0|NN
+Clarus program|O|0|NN|shall provide for|Other|IN|customer service|O|0|NN
+Clarus program|O|0|NN|shall provide|Other|VB|trained support staff|O|0|NN
+Clarus program|O|0|NN|shall define|Other|VB|data quality assurance methods|O|0|NNS
+Clarus program|O|0|NN|shall define|Other|VB|quality control rules for environmental observations|O|0|NNS
+Clarus program|O|0|NN|shall define|Other|VB|data retention standards|O|0|NNS
+Clarus program|O|0|NN|shall provide|Other|VB|documentation of Clarus standards|O|0|NNS
+Clarus program standards|O|0|NNS|shall accommodate|Other|VB|contributions of new sensor technologies to Clarus system|O|0|NN
+Clarus program standards|O|0|NNS|shall support|Other|VB|multiple methods of data delivery|O|0|NN
+Clarus program|O|0|NN|shall maintain|Other|VB|comprehensive Clarus system test environment|O|0|NN
+Clarus program|O|0|NN|shall test|Other|NN|software changes in designated test environment|O|0|NN
+Clarus program|O|0|NN|shall test|Other|NN|hardware changes in designated test environment|O|0|NN
+Clarus program|O|0|NN|shall operate Clarus system according to|Other|TO|its published IT Security Plan|O|0|NNP
+Clarus program|O|0|NN|shall operate according to|Other|TO|Government IT security requirements|O|0|NNS
+Clarus program|O|0|NN|shall operate according to|Other|TO|Government IT security requirements|O|0|NNS
+Clarus program|O|0|NN|operate|Other|VB|outlined in DOT Order 1630.2 B|O|0|NN
+Weather service providers|O|0|NNS|use|Other|VB|Clarus data|O|0|NNS
+Public agency maintenance|O|0|NN|shall|Other|MD|shall able|O|0|JJ
+Rail system personnel|O|0|NNS|use|Other|VB|Clarus system|O|0|NN
+Traffic management personnel|O|0|NNS|shall|Other|MD|shall able|O|0|JJ
+Transit personnel|O|0|NNS|shall|Other|MD|shall able|O|0|JJ
+freight community|O|0|NN|use|Other|VB|Clarus system|O|0|NN
+public safety personnel|O|0|NNS|use|Other|VB|Clarus system|O|0|NN
+Clarus program|O|0|NN|shall maintain|Other|VB|information about data providers|O|0|NNS
+Clarus program|O|0|NN|shall maintain|Other|VB|metadata about data provider 's network|O|0|NN
+Clarus program|O|0|NN|shall maintain|Other|VB|information about data provider redistribution restrictions|O|0|NNS
+Clarus program|O|0|NN|shall maintain|Other|VB|information about service providers|O|0|NNS
+Clarus program|O|0|NN|shall maintain|Other|VB|information about service provider communications|O|0|NNS
+Clarus program|O|0|NN|shall maintain|Other|VB|information about service provider access to data|O|0|NNS
+Clarus program|O|0|NN|shall allow|Other|VB|potential weather element data providers|O|0|NNS
+CDN|MISC|0|NN|peering|Other|VBG|assists in coordinated content delivery|O|0|NN
+content replication|O|0|NN|determining compensation on|Other|IN|geographically distributed Internet scale|O|0|NN
+different CDN providers|O|0|NNS|share|Other|VB|resources|O|0|NNS
+particular CDN|O|0|NN|achieve scale/reach through|Other|IN|resource sharing with other CDN s|O|0|NNS
+triggering condition|O|0|NN|must consider|Other|VB|expected load increases in initiating CDN|O|0|NN
+negotiated relationships|O|0|NNS|must specify|Other|VB|interactions among entities including service administration|O|0|NN
+initiating CDN|O|0|NN|Once identifies activities through|Other|IN|relationships for coordination|O|0|NN
+mediator instance|O|0|NN|passes service requirements to|Other|TO|local PA|STATE_OR_PROVINCE|0|NN
+PA|ORGANIZATION|0|NN|performs|Other|VBZ|resource discovery process|O|0|NN
+System|MISC|0|NNP|configure CDN protocols at|Other|IN|conduit of CDNs|O|0|NNS
+protocols|O|0|NNS|also allow|Other|VBP|participating|O|0|VBG
+CDNs|O|0|NNS|exchange|Other|NN|accounting information|O|0|NN
+system|O|0|NN|do|Other|VBP|Development peering|O|0|VBG
+system|O|0|NN|thus improving|Other|VBG|performance of content delivery|O|0|NN
+Web server s|O|0|NNS|functions of is|Other|VBZ|Web server replicates|O|0|VBZ
+Web server s|O|0|NNS|functions of is|Other|VBZ|event of Web hotspot|O|0|NN
+Web services host|TITLE|0|NN|ensures|Other|VBZ|delivery of content to end-users|O|0|NNS
+Web server s|O|0|NNS|functions of is|Other|VBZ|policy agent|O|0|NN
+Web server s|O|0|NNS|functions of is|Other|VBZ|SLA-allocator|MISC|0|NN
+Web server s|O|0|NNS|functions of is|Other|VBZ|Web servers ' underlying algorithms|O|0|NNS
+Mediator|TITLE|0|NN|generates service requirements as|Other|IN|basis for negotiated relationships|O|0|NNS
+Mediator|TITLE|0|NNP|passes service requirements to|Other|TO|PA.|STATE_OR_PROVINCE|0|NNP
+Mediator|TITLE|0|NN|works in|Other|IN|conjunction with its local PA|STATE_OR_PROVINCE|0|NN
+participating entities|O|0|NNS|are|IS-A|VBP|able|O|0|JJ
+peering arrangement|O|0|NN|is|IS-A|VBZ|Once established|O|0|VBN
+rols|O|0|NNS|is redirected to|Other|TO|Web servers of peering CDNs|O|0|NNS
+Service Registry|O|0|NNP|encapsulates|Other|VBZ|resource information for CDN|O|0|NN
+Service Registry|O|0|NNP|discovering|Other|VBG|local resources|O|0|NNS
+Service Registry|O|0|NNP|supplies|Other|VBZ|necessary local resource information|O|0|NN
+new peering arrangement|O|0|NN|is|IS-A|VBZ|When established|O|0|VBN
+Policy Repository|O|0|NNP|provides set to|Other|TO|mediator administer|O|0|VB
+Agent|O|0|NNP|acts as|Other|IN|policy-driven resource discovery module|O|0|NN
+service requirements|O|0|NNS|is with|Other|IN|external PAs|O|0|NNS
+Peering|O|0|VBG|establish|Other|VB|negotiations with PAs of other peers|O|0|NNS
+Content replication|O|0|NN|using|Other|VBG|cooperative pull-based approach|O|0|NN
+load information|O|0|NN|disseminating|Other|VBG|it|O|0|PRP
+Request assignment|O|0|NN|is|IS-A|VBZ|performed at multiple levels at DNS at gateways to local clusters|O|0|NNS
+Web Server|O|0|NN|publishes service information to|Other|TO|SR.|O|0|NNP
+Service registry|O|0|NN|registers resources at|Other|IN|CDN provider|O|0|NN
+Mediator|TITLE|0|NN|collects resource information from|Other|IN|SR.|O|0|NNP
+Mediator|TITLE|0|NN|receives initiation request from|Other|IN|WS|O|0|NN
+Malicious requests|O|0|NNS|are|IS-A|VBP|detected|O|0|VBN
+Web servers|O|0|NNS|have already replicated|Other|VBN|necessary content|O|0|NN
+anticipated user requests|O|0|NNS|are|IS-A|VBP|considered|O|0|VBN
+format|O|0|NN|is|IS-A|VBZ|defined|O|0|VBN
+Service registry|O|0|NN|sends|Other|VBZ|resource information|O|0|NN
+Policy Repository|O|0|NNP|establishing|Other|VBG|negotiated relationships|O|0|NNS
+Peering agent|O|0|NN|receives|Other|VBZ|service requirements from mediator|TITLE|0|NN
+External Peering agent|O|0|NN|negotiates with|Other|IN|Peering agent of primary CDN|O|0|NN
+Peering agent|O|0|NN|receives|Other|VBZ|negotiated policies from local Peering agent|O|0|NN
+Local Peering agent|O|0|NN|receives|Other|VBZ|service requirements from mediator|TITLE|0|NN
+they|O|0|PRP|are returned|Other|VBN|peering policies exist|O|0|VBP
+system|O|0|NN|must allow|Other|VB|member of network|O|0|NN
+member|O|0|NN|send|Other|VB|bulk request on all|O|0|DT
+member|O|0|NN|do|Other|VB|statistics on messages issued from his system|O|0|NN
+system|O|0|NN|must provide reply through|Other|IN|use of standard interface to Members systems|O|0|NNS
+system|O|0|NN|must track workflow between|Other|IN|senders|O|0|NNS
+system|O|0|NN|must|Other|MD|must able|O|0|JJ
+statistics|O|0|NNS|percentage of|Other|IN|unsuccessful transaction|O|0|NN
+system|O|0|NN|must provide|Other|VB|management of user rights|O|0|NNS
+system|O|0|NN|define type in|Other|IN|driver 's smart card holder like pre-delivery check|O|0|NN
+system|O|0|NN|include members through|Other|IN|simple administrative tasks|O|0|NNS
+system|O|0|NN|must|Other|MD|must highly automatic|O|0|JJ
+system|O|0|NN|must|Other|MD|must such|O|0|JJ
+system|O|0|NN|must allow|Other|VB|ask for status of card to corresponding Card Issuing Authority of Member State|O|0|NNP
+Member State|O|0|NNP|send card status modification requests to|Other|TO|corresponding Card Issuing Authority of Member State|O|0|NNP
+system|O|0|NN|must allow enforcement authorities through|Other|IN|its Card Issuing Authority|O|0|NNP
+system|O|0|NN|must allow enforcement authorities through|Other|IN|its Card Issuing Authority|O|0|NNP
+system|O|0|NN|must guide users through|Other|IN|interface|O|0|NN
+it|O|0|PRP|correct|Other|VB|mistakes|O|0|NNS
+system|O|0|NN|is|IS-A|VBZ|designed as robust operational system|O|0|NN
+system|O|0|NN|must function reliably still thereafter in|Other|IN|its first operational year|DURATION|0|NN
+system|O|0|NN|must give|Other|VB|stable results|O|0|NNS
+There will restriction|O|0|NN|is in|Other|IN|time|O|0|NN
+system|O|0|NN|establish dialog despite|Other|IN|various technical environments used on their sites|O|0|NNS
+system|O|0|NN|will|Other|MD|will designed|O|0|VBN
+system|O|0|NN|produce rapidly|Other|RB|results|O|0|NNS
+system|O|0|NN|must respond rapidly to|Other|TO|user requests irrespective of background tasks|O|0|NNS
+Such high availability|O|0|NN|is also required from|Other|IN|Member States systems|O|0|NNS
+system|O|0|NN|support|Other|VB|other types of message structure|O|0|NN
+system|O|0|NN|must|Other|MD|must maintainable|O|0|JJ
+it|O|0|PRP|can migrate to|Other|TO|upgraded hardware|O|0|NN
+system|O|0|NN|must|Other|MD|must able than one proposed by TESTA-II|O|0|NN
+name truncation rules|O|0|NNS|matching in case of|Other|IN|misspelling|O|0|NN
+its operational lifetime|O|0|NN|be|IS-A|VB|many years|DURATION|0|NNS
+generic interface|O|0|NN|is with|Other|IN|Member 's applications|O|0|NNS
+system|O|0|NN|must use|Other|VB|network facilities supplied by TESTA-II network|O|0|NN
+APAF system|O|0|NN|shall acquire|Other|VB|telemetry data of ASPERA-3 Experiment|MISC|0|NN
+APAF system|O|0|NN|shall process ASPERA-3 science data into|Other|IN|IDFS data sets|O|0|NNS
+APAF system|O|0|NN|shall process|Other|VB|engineering information necessary for calibration validation into IDFS data sets|O|0|NNS
+Intermediate files|O|0|NNS|shall|Other|MD|shall generated|O|0|VBN
+ASPERA-3 OA telemetry data|O|0|NNS|shall|Other|MD|shall stored on local SwRI archive|O|0|NN
+available ASPERA-3 data|O|0|NNS|can|Other|MD|where can used for science analysis|O|0|NN
+web-based displays|O|0|NNS|defined by|Other|IN|ASPERA-3 team|O|0|NN
+APAF ground data system|O|0|NN|shall have|Other|VB|built-in error handling|O|0|NN
+ASPERA-3 OA IDFS data|O|0|NNS|shall|Other|MD|shall provided to ASPERA-3 Co-I 's|O|0|POS
+IDFS data access software|O|0|NN|shall|Other|MD|shall made|O|0|VBN
+System|O|0|NNP|runs on|Other|IN|fully relational SQL-based database system|O|0|NN
+system|O|0|NN|provides|Other|VBZ|real-time processing|O|0|NN
+system|O|0|NN|supports|Other|VBZ|live shelf reading|O|0|NN
+patrons|O|0|NNS|can access|Other|VB|only selected fields|O|0|NNS
+Record changes|O|0|NNS|are applied in|Other|IN|reasonable way|O|0|NN
+it|O|0|PRP|is in|Other|IN|use|O|0|NN
+access|O|0|NN|is granted by|Other|IN|use of roles|O|0|NNS
+Individual logins|O|0|NNS|allow|Other|VBP|user-level preferences|O|0|NNS
+System documentation|O|0|NN|follows|Other|VBZ|standard formats for technical documentation|O|0|NN
+Documentation|O|0|NN|is specific to|Other|TO|particular version of software in use at library|O|0|NN
+Documentation|O|0|NN|organized by|Other|IN|function|O|0|NN
+written guidelines|O|0|NNS|updating|Other|VBG|servers|O|0|NNS
+System|O|0|NNP|provides|Other|VBZ|access to configuration files|O|0|NNS
+System|O|0|NNP|provides|Other|VBZ|full access to log files|O|0|NNS
+Logs|O|0|NNS|set to|Other|TO|specific retention threshold|O|0|NN
+access|O|0|NN|root|Other|VB|shell|O|0|NN
+System|O|0|NNP|supports|Other|VBZ|creation of custom dashboards|O|0|NNS
+System|O|0|NNP|supports|Other|VBZ|record creation|O|0|NN
+Administrators|O|0|NNPS|give|Other|VB|access to selected users|O|0|NNS
+System|O|0|NNP|supports|Other|VBZ|monitoring of system resources including disk space|O|0|NN
+Alert thresholds|O|0|NNS|are|IS-A|VBP|configurable|O|0|JJ
+Alerts|O|0|NNS|can|Other|MD|can sent via administrative dashboards|O|0|NNS
+Alerts|O|0|NNS|can|Other|MD|can sent to unlimited number of recipients via alert methods|O|0|NNS
+record types|O|0|NNS|for locked.provide is|Other|null|list of records in sustained use/locked condition|O|0|NN
+System|O|0|NNP|provides|Other|VBZ|dashboard of performance monitoring|O|0|NN
+processes|O|0|NNS|is with|Other|IN|ID|STATE_OR_PROVINCE|0|NN
+Runaway processes|O|0|NNS|are|IS-A|VBP|identified|O|0|VBN
+System status|O|0|NN|is represented by|Other|IN|visual indicators|O|0|NNS
+System|O|0|NNP|provides|Other|VBZ|server management console including software shutdown utility|O|0|NN
+last software upgrade current software version|O|0|NN|size of|Other|IN|log-files|O|0|NNS
+System|O|0|NNP|provides count by|Other|IN|database utilization|O|0|NN
+management console|O|0|NN|displaying|Other|VBG|workstations running client software|O|0|NN
+circulation dashboard|O|0|NN|holds placed per|Other|IN|hour|DURATION|0|NN
+Indicators|O|0|NNPS|can|Other|MD|can limited to single branch|O|0|NN
+System|O|0|NNP|provides console with|Other|IN|access to configuration files|O|0|NNS
+Read permission|O|0|NN|can|Other|MD|can assigned to users|O|0|NNS
+System|O|0|NNP|supports SMTP for|Other|IN|email transport|O|0|NN
+System|O|0|NNP|supports|Other|VBZ|restrictions|O|0|NNS
+restrictions|O|0|NNS|deleting|Other|VBG|item records|O|0|NNS
+restrictions|O|0|NNS|deleting records with|Other|IN|existing holds|O|0|VBZ
+staff|O|0|NN|view item records in|Other|IN|staff|O|0|NN
+Records|O|0|NNPS|may|Other|MD|may visible to specific workgroups only|O|0|RB
+patron|O|0|NN|place hold on|Other|IN|item|O|0|NN
+Requesting rules|O|0|NNS|may evaluate|Other|VB|current number of holds|O|0|VBZ
+Requesting rules|O|0|NNS|placing|Other|VBG|holds on CD titles|O|0|NNS
+patrons|O|0|NNS|place|Other|VB|holds on other titles|O|0|NNS
+specific criteria|O|0|NNS|staff with|Other|IN|specific privileges|O|0|NNS
+System|O|0|NNP|allows|Other|VBZ|creation of loan rules|O|0|NNS
+patron type|O|0|NN|number of|Other|IN|items|O|0|NNS
+Loan rules|O|0|NNS|can access|Other|VB|check-out location open/closed schedule|O|0|NN
+specific criteria|O|0|NNS|be overridden by|Other|IN|staff with specific privileges|O|0|NNS
+System|O|0|NNP|perform|Other|VB|live incremental backups of data|O|0|NNS
+System|O|0|NNP|supports|Other|VBZ|use of third-party backup software|O|0|NN
+system|O|0|NN|Ideally provides|Other|VBZ|revision control|O|0|NN
+System administrative staff|O|0|NN|has|containment|VBZ|full visibility of user privileges|O|0|NNS
+System|O|0|NNP|supports|Other|VBZ|secure protocols including SFTP|O|0|NNP
+SFTP|O|0|NN|is supported in|Other|IN|active modes configurable per vendor|TITLE|0|NN
+MARC bibliographic records|O|0|NNS|can|Other|MD|can imported singly and|O|0|CC
+Imported batches|O|0|NNS|can|Other|MD|can maintained as selection lists|O|0|NNS
+System|O|0|NNP|supports|Other|VBZ|unlimited number of record sets|O|0|NNS
+can basis|O|0|NN|can|Other|MD|can used as limiting scope for queries|O|0|NNS
+can basis|O|0|NN|delete records with|Other|IN|ability review prior to deletion|O|0|NN
+can basis|O|0|NN|write errors to|Other|TO|log file|O|0|NN
+New staff account creation process|O|0|NN|provides templates for|Other|IN|account administrator use|O|0|NN
+New staff account creation process|O|0|NN|provides privileges for|Other|IN|account creation|O|0|NN
+Patron account creation process|O|0|NN|provides|Other|VBZ|configurable templates for staff use|O|0|NN
+Patron account creation process|O|0|NN|provides|Other|VBZ|configurable defaults|O|0|NNS
+System|O|0|NNP|supports|Other|VBZ|scheduling of maintenance tasks|O|0|NNS
+Jobs|O|0|NNP|can|Other|MD|can scheduled in sequence|O|0|NN
+permission|O|0|NN|schedule|Other|VB|data exports|O|0|NNS
+System administration staff|O|0|NN|manage|Other|VB|jobs scheduled by other staff|O|0|NN
+System|O|0|NNP|supports|Other|VBZ|administrator-programmable macros|O|0|NNS
+Shortcut keys|O|0|NNS|may|Other|MD|may assigned to macros to text strings|O|0|NNS
+Macros|O|0|NNP|are centrally managed on|Other|IN|server|O|0|NN
+Macros|O|0|NNP|can|Other|MD|can imported from|O|0|IN
+Macros|O|0|NNP|editting through|Other|IN|centrally managed permissions|O|0|NNS
+Staff accounts|O|0|NNS|are independent from|Other|IN|workstations|O|0|NNS
+Client software installation|O|0|NN|must|Other|MD|must centrally managed|O|0|VBN
+Client software installation|O|0|NN|must|Other|MD|must done|O|0|VBN
+specific clients|O|0|NNS|be|IS-A|VB|updated|O|0|VBN
+Client software|O|0|NN|can|Other|MD|can managed with VNC|ORGANIZATION|0|NN
+client configuration files|O|0|NNS|are|IS-A|VBP|server based|O|0|VBN
+client configuration files|O|0|NNS|can|Other|MD|can exported between clients|O|0|NNS
+client configuration files|O|0|NNS|can between|Other|IN|can clients|O|0|NNS
+appearance|O|0|NN|layout of|Other|IN|reports|O|0|NNS
+Ability|O|0|NN|save report to|Other|TO|standard CSV format|O|0|NN
+Ability|O|0|NN|save report to|Other|TO|standard Excel format|O|0|NN
+Ability|O|0|NN|save report to|Other|TO|customizable formats|O|0|NNS
+Staff|O|0|NN|can select|Other|VB|fields to query|O|0|NN
+Staff|O|0|NN|can select|Other|VB|values from picklist of possible values|O|0|NNS
+Staff|O|0|NN|can select|Other|VB|regular expressions from drop-down menu|O|0|NN
+Staff|O|0|NN|can use|Other|VB|full range of Boolean operators|O|0|NNS
+Administrators|O|0|NNPS|control|Other|VBP|staff access to tables|O|0|NNS
+System administrators|O|0|NNS|can create|Other|VB|report templates|O|0|NNS
+System administrators|O|0|NNS|can create|Other|VB|report templates|O|0|NNS
+System|O|0|NNP|provides permissions|Other|NNS|allow|O|0|VB
+staff|O|0|NN|run|Other|VB|ad hoc reports on specific sets of data|O|0|NNS
+current record number|O|0|NN|number of|Other|IN|records|O|0|NNS
+Record types|O|0|NNS|include|Other|VBP|patron|O|0|NN
+Windows printers|O|0|NNS|are|IS-A|VBP|supported|O|0|VBN
+APAF system|O|0|NN|shall acquire|Other|VB|telemetry data of ASPERA-3 Experiment|MISC|0|NN
+APAF system|O|0|NN|shall process ASPERA-3 science data into|Other|IN|IDFS data sets|O|0|NNS
+APAF system|O|0|NN|shall process|Other|VB|engineering information necessary for calibration validation into IDFS data sets|O|0|NNS
+Intermediate files|O|0|NNS|shall|Other|MD|shall generated|O|0|VBN
+ASPERA-3 OA telemetry data|O|0|NNS|shall|Other|MD|shall stored on local SwRI archive|O|0|NN
+available ASPERA-3 data|O|0|NNS|can|Other|MD|where can used for science analysis|O|0|NN
+web-based displays|O|0|NNS|defined by|Other|IN|ASPERA-3 team|O|0|NN
+APAF ground data system|O|0|NN|shall have|Other|VB|built-in error handling|O|0|NN
+ASPERA-3 OA IDFS data|O|0|NNS|shall|Other|MD|shall provided to ASPERA-3 Co-I 's|O|0|POS
+IDFS data access software|O|0|NN|shall|Other|MD|shall made|O|0|VBN
